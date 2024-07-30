@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository is deprecated. Please use [OWF Labs: sd-jwt-ts](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+
 # Selective Disclosure JWT (SD-JWT) Draft 06 & Selective Disclosure JWT VC 01
 
 ## Compliant with
